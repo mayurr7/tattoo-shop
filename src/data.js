@@ -1,3 +1,4 @@
+
 // import images
 import Logo from '../src/img/header/logo.svg';
 import GalleryImg1 from '../src/img/gallery/1.png';
