@@ -25,7 +25,7 @@ const App = () => {
       <Contact />
       <Footer />
       <Copyright />
-      {/* <div className='h-[4000px]'></div> */}
+      <div className='h-[4000px]'></div>
     </div>
   );
 };
